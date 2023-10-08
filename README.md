@@ -72,8 +72,3 @@
 - 2023.10.5
   - 假期已接近尾声。Global源更新了auth参数以应对各种内置，去掉了北京的频道，增加了CHC系列频道(高峰期可能播放不流畅，体验不好的话后面会做删减)。
 
-## ☕捐赠
-- 支持项目，赋予更多流量，共创更好体验，让服务更强大！
-  - 自2022年10月创立以来，得益于大家的支持，项目已获得超过6K颗星星，在中文GitHub项目中名声鹊起。感激一路相伴，项目将持续免费。所有款项将透明公示于项目的[Sponsor.MD](https://github.com/fanmingming/live/blob/main/Sponsor.MD)。
-
-<img alt="Sponsor" src="https://live.fanmingming.com/sponsor.png">
